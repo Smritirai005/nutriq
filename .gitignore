@@ -4,7 +4,7 @@
 node_modules/
 
 config/
-
+config/apiKeys.ts
 
 # Expo
 .expo/
